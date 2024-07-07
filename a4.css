@@ -1,0 +1,52 @@
+
+p{
+    text-indent: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+  /* letter-spacing: 5px;    
+  */
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: italic;
+    text-transform:lowercase;
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+    /* text-shadow: 2px 2px; */
+    /* text-shadow: 2px 2px 5px red; */
+    /* vertical-align: baseline; */
+     /* vertical-align: text-bottom;  */
+     /* text-decoration: underline;
+     text-decoration-color: blue;
+     text-decoration-style: dotted; */
+     /* text-decoration: underline red double 5px; */
+}
+h2{
+    text-transform:uppercase;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    /* letter-spacing: 5px; */
+    /* white-space: nowrap; */
+    /* vertical-align: text-top; */
+    /* vertical-align: sub; */
+    /* text-decoration: line-through;
+    text-decoration-color: brown;
+    text-decoration-style: solid; */
+    text-decoration:overline green 5px dotted;
+}
+h3{
+    text-transform: capitalize;
+    /* word-spacing: 10px; */
+    text-shadow: 5px 5px  greenyellow  5px 6px 7px blue;
+    /* text-decoration: overline;
+    text-decoration-color:red;
+    text-decoration-style:double */
+    /* text-decoration:line-through blue 5px solid ; */
+}
+p.ex {
+    /* text-decoration: overline underline;
+    text-decoration-color: purple;
+    text-decoration-style: wavy; */
+    text-decoration: none;
+    line-height: 2.%;
+    font-family: "Times New Roman", Times, serif;
+
+  }
